@@ -1,0 +1,12 @@
+
+  References for Green Pawn (GPAWN):
+
+Contract on Solana:
+DjmEr6Bv6Ss7xYbgKp46t1aAwxNbbi4UmGpGedYtpump
+
+GPAWN webpage:
+https://grassd8.github.io/gpawn/
+
+GPAWN/SOL on Coinmarketcap:
+https://coinmarketcap.com/dexscan/en/solana/AaKKc8t9KaSjWDVnPveNCLRy6U5ncz8zri5nwtJ2L6P/
+
